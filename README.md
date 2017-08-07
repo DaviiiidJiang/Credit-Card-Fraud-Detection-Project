@@ -15,4 +15,8 @@ different classification models. My model is offering an 94% recall accuracy on 
 * Recall = True Positive/(True Positive+False Negative)
 <div align=center><img width="350" height="350" src="https://github.com/DaviiiidJiang/Credit-Card-Fraud-Detection-Project/blob/master/figure/Recall.png"/></div><br>
 <div align=center>The Confusion Matrix of the Logistic Regression model</div><br>
+You can see all the codes in the jupyter notebook.<br>
+
+## Certification
+
 
