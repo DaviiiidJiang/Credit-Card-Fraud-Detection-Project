@@ -11,7 +11,7 @@ The dataset is highly unbalanced, the positive class (frauds) account for 0.172%
 
 ## Key Results
 I want test Logistic Regression on skewed data. I also apply cross validation for hyperparameter tuning<br>
-different classification models. My model is offering an 94% recall accuracy on the whole data.<br>
+different classification models. My model is offering an 94% recall accuracy on the test data.<br>
 * Recall = True Positive/(True Positive+False Negative)
 
 
