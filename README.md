@@ -18,5 +18,9 @@ different classification models. My model is offering an 94% recall accuracy on 
 You can see all the codes in the jupyter notebook.<br>
 
 ## Certification
+<div align=center><img width="400" height="350" src="https://github.com/DaviiiidJiang/Credit-Card-Fraud-Detection-Project/blob/master/jiang-certificate.png"/></div><br>
+
+
+
 
 
